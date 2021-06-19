@@ -24,7 +24,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   An Android Developer Podcast where we talk about latest news, tips,
   and experiences that can help you become a better developer.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://reactivitypodcast.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: reactivitypod
 github_username: ""
