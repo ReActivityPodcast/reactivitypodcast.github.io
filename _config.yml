@@ -32,7 +32,8 @@ logo: /assets/images/logo-no-bg.png
 
 # Build settings
 #theme: minima
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 
 # MM theme params
 minimal_mistakes_skin: "default"
