@@ -1,7 +1,7 @@
 ---
-layout: single
+# layout: single
 title: About
-permalink: /about/
+# permalink: /about/
 ---
 
 An Android Developer Podcast where we talk about latest news, tips, and experiences that can help you become a better developer.
