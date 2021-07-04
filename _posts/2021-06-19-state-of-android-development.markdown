@@ -5,10 +5,10 @@ date:   2021-06-19 12:11:06 +0530
 author_profile: "Kalyan"
 categories: android
 ---
-Listen to this episode here:
-
-<iframe src="https://anchor.fm/reactivity/embed/episodes/State-of-Android-Development-e12m3ec" width="100%" frameborder="0" scrolling="no"></iframe>
 One of the fast-changing fields of the software industry is mobile development. What I mean by fast-changing is that the way we design or architect our apps, the tools or libraries that we use and for that matter even the platform provided options for building these apps change very often.
+
+Listen to this episode here:
+<iframe src="https://anchor.fm/reactivity/embed/episodes/State-of-Android-Development-e12m3ec" width="100%" frameborder="0" scrolling="no"></iframe>
 
 In addition to that, every year these events like Google IO or WWDC bring a lot of new things.
 
