@@ -3,7 +3,7 @@ layout: post
 title:  "Google IO 2021 chat"
 date:   2021-07-05 10:11:06 +0530
 author_profile: "Kalyan"
-categories: android, googleio
+categories: android googleio
 background: '/assets/images/posts/google-io-chat.jpg'
 ---
 Every year Google IO brings us a ton of content, something for us to learn and try for the whole next year. It is a special event, specifically for Android Developers.
