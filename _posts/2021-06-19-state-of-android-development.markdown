@@ -4,6 +4,7 @@ title:  "State of Android Development"
 date:   2021-06-19 12:11:06 +0530
 author_profile: "Kalyan"
 categories: android
+background: '/assets/images/posts/state-of-android.jpg'
 ---
 One of the fast-changing fields of the software industry is mobile development. What I mean by fast-changing is that the way we design or architect our apps, the tools or libraries that we use and for that matter even the platform provided options for building these apps change very often.
 
@@ -12,13 +13,13 @@ Listen to this episode here:
 
 In addition to that, every year these events like Google IO or WWDC bring a lot of new things.
 
-I still remember those days when we created a new activity for each screen and made every other class a “parcelable” just to pass around as we like and call it a day. Those are the early days of android development where there are just a few devices and not many apps on the store as well. Also, there is no dedicated IDE to write android apps. We used to write all the logic that we have in the activity class and link it to the XML behind it to render the UI. I mean those worked just fine, of course, until your app became bigger and complex. At some point, it just gets harder and harder to maintain the code and fix the bugs. Over a decade, both the platform and apps have evolved so much that we can’t keep creating a new activity for everything. Because, these days we have to support features like widgets, deep links, instant apps, sharing and switching between apps, gestures and many more.
+I still remember those days when we created a new activity for each screen and made every other class a `parcelable` just to pass around as we like and call it a day. Those are the early days of android development where there are just a few devices and not many apps on the store as well. Also, there is no dedicated IDE to write android apps. We used to write all the logic that we have in the activity class and link it to the XML behind it to render the UI. I mean those worked just fine, of course, until your app became bigger and complex. At some point, it just gets harder and harder to maintain the code and fix the bugs. Over a decade, both the platform and apps have evolved so much that we can’t keep creating a new activity for everything. Because, these days we have to support features like widgets, deep links, instant apps, sharing and switching between apps, gestures and many more.
 
 After those activity days came the most dreaded fragment days. In a way, these fragments are like a double-edged sword. If used properly, we can achieve things that are not possible with just activities alone. But at the same time, it was harder to use them properly and run into a new type of bugs. These fragments stayed for quite a while before the android team started to bring structure to what we have today. Also, back then there was no official guide on structuring the android app.
 
 Around the same time, the awesome community started helping out with their own opinionated guides and frameworks. Soon we had an open-source library for everything. Picasso for Image loading, okhttp and retrofit for network, fastadapter that made working with recycler views a lot easier, Airbnb used their own deep linking framework called deep link dispatch, Uber did their own architecture library called RIBs, and Realm DB too, that made it super easy to use the database when compared to all the boilerplate that came with Content providers and Cursors with the platform provided options. These are some of the frameworks that I can think of at the top of my mind but I am sure that every one of us had our own favourites.
 
-But all those days are way behind us when the Android team at Google introduced the Architecture components which they now call Jetpack. And basically, it changed everything. Suddenly we all got a standard way or a pattern to write our apps rather than getting inspired about an architecture that we heard about... at a meetup to which we can’t migrate our own apps.
+But all those days are way behind us when the Android team at Google introduced the Architecture components which they now call Jetpack. And basically, it changed everything. Suddenly we all got a standard way or a pattern to write our apps rather than getting inspired about an architecture that we heard about at a meetup to which we can’t migrate our own apps.
 
 But to be honest, even those new architecture components took their own sweet time to become mainstream. I remember how badly I want to use them but they are still in the alpha or preview phase to which I cannot justify being used in production applications.
 
@@ -36,7 +37,7 @@ So the future is definitely bright. But one thing to remember is that we cannot 
 
 Okay, so with that said, if I am starting a new project today what would I use?
 
-Even though I had to say the classic answer “It depends”, I wanted to share my thoughts on this.
+Even though I had to say the classic answer `It depends`, I wanted to share my thoughts on this.
 
 If I am starting a new side-project that is, my own app or an app for trying something, then I would definitely start with Compose along with a new navigation library, room as my go-to option for local storage, hilt for dependency injection, datastore for storing shared preferences and all the shiny stuff. But if it is at my work, I would rather stick to XML for UI, view models for maintaining my state and all the other tested stable stuff.
 
@@ -57,3 +58,6 @@ Show notes:
 [https://github.com/uber/RIBs](https://github.com/uber/RIBs)
 
 [https://github.com/mikepenz/FastAdapter](https://github.com/mikepenz/FastAdapter)
+
+Photo by <a href="https://unsplash.com/@vork?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark Boss</a> on <a href="https://unsplash.com/s/photos/android?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
