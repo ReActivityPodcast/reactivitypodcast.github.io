@@ -8,6 +8,9 @@ background: '/assets/images/posts/google-io-chat.jpg'
 ---
 Every year Google IO brings us a ton of content, something for us to learn and try for the whole next year. It is a special event, specifically for Android Developers.
 
+Listen to the episode here:
+<iframe src="https://anchor.fm/reactivity/embed/episodes/Google-IO-2021-Highlights-An-Android-Developers-Perspective-e1345ju" width="100%" frameborder="0" scrolling="no"></iframe>
+
 As usual, which has been a norm for the last couple of years, this year's conference is majorly focused on Machine learning advancements at Google. However, `Android` took center stage and a lot of updates compared to last year, Android 12 being the biggest update.
 
 ### Android 12
