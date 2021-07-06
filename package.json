@@ -1,8 +1,8 @@
 {
-    "title": "Clean Blog Jekyll",
-    "name": "startbootstrap-clean-blog-jekyll",
+    "title": "ReActivity Podcast",
+    "name": "reactivity-blog",
     "version": "4.0.12",
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "description": "Blog for ReActivity Podcast",
     "keywords": [
         "css",
         "sass",
@@ -11,11 +11,6 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/themes/clean-blog-jekyll",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
