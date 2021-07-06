@@ -7,7 +7,7 @@ categories: android
 background: '/assets/images/posts/cross-platform-dev.jpeg'
 ---
 
-What is cross-platform mobile development? Is it writing in a single language and running it on both Android and iOS? Or is it writing common business logic in a common language and share with native platform code? Is it HTML/JS or C++ or can it be your regular kotlin and swift? Listen to find out more about Cross-platform development, how it evolved over the years and what it means for Native Android or iOS developers.
+What is cross-platform mobile development? Is it writing in a single language and running it on both Android and iOS? Or is it writing common business logic in a common language and share with native platform code? Is it HTML/JS or C++ or can it be your regular kotlin and swift? Find out more about Cross-platform development, how it evolved over the years and what it means for Native Android or iOS developers.
 
 Listen to the show here:
 <iframe src="https://anchor.fm/reactivity/embed/episodes/Cross-Platform-App-Development-e13knph" width="100%" frameborder="0" scrolling="no"></iframe>
@@ -57,5 +57,24 @@ At the end of the day, these are the apps that run on mobile devices. And with t
 It is definitely a good time to build apps and start solving problems one at a time. Why I said good time is because of the recent announcement from Microsoft that `Android Apps can now be downloaded and run on Windows 11` via the Amazon app store which is available in the default windows store. This could be great news that your Macbooks, Chromebooks, and Windows can now run Mobile apps.
 
 Oh! I almost forgot `Xamarin`. A fun fact, my first software project is a Windows Phone app written in C#. With my little experience in C#, Xamarin seemed a very good solution for writing cross-platform apps. But... you know what happened.
+
+#### Show Notes:
+Cordova: [https://cordova.apache.org/](https://cordova.apache.org/)
+
+Ionic: [https://ionicframework.com/](https://ionicframework.com/)
+
+React Native: [https://reactnative.dev/](https://reactnative.dev/)
+
+Native Script: [https://nativescript.org/](https://nativescript.org/)
+
+PWA: [https://web.dev/progressive-web-apps/](https://web.dev/progressive-web-apps/)
+
+Flipkart's PWA: [https://medium.com/progressive-web-apps/building-flipkart-lite-a-progressive-web-app-2c211e641883](https://medium.com/progressive-web-apps/building-flipkart-lite-a-progressive-web-app-2c211e641883)
+
+[https://developers.google.com/web/showcase/2016/flipkart](https://developers.google.com/web/showcase/2016/flipkart)
+
+Flutter: [https://flutter.dev/](https://flutter.dev/)
+
+KMM: [https://kotlinlang.org/lp/mobile/](https://kotlinlang.org/lp/mobile/)
 
 Photo by <a href="https://unsplash.com/@altumcode?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">AltumCode</a> on <a href="https://unsplash.com/s/photos/ios?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
