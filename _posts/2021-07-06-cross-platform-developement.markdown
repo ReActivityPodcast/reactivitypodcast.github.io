@@ -12,8 +12,6 @@ What is cross-platform mobile development? Is it writing in a single language an
 Listen to the show here:
 <iframe src="https://anchor.fm/reactivity/embed/episodes/Cross-Platform-App-Development-e13knph" width="100%" frameborder="0" scrolling="no"></iframe>
 
-Hello and welcome to the ReActivity Podcast. I am host Kalyan and this is a show about all things Android. From tips to the latest news to experiences that can help you become a better developer.
-
 Let's talk about what, why, and how of cross-platform development. If you are new or switching your career to mobile development, you may have a question about what you should learn or begin with? Learn a single platform or both natively or choose a cross-platform solution. Remember whatever language or framework we use, we should maintain the standard and quality that we plan in our apps. 
 
 `TLDR;` To give you a short answer, you should learn the platform natively that you want to develop apps on, even if you end up choosing a cross-platform solution. If you think otherwise or want to know in detail about my thought process, let me break this down beginning with how it all started.
