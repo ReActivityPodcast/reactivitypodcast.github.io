@@ -67,6 +67,16 @@
             </a>
           </li>
           {% endif %}
+          {% if site.youtube_username %}
+          <li class="list-inline-item">
+            <a href="https://youtube.com/channel/{{ site.youtube_username }}">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
         <p class="copyright text-muted">Made with :heart: from :india:</p>
         <!-- <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p> -->
