@@ -24,3 +24,5 @@ fields:
 - type: file
   name: background
   label: background
+pages:
+- _posts/we-have-a-blog-for-our-podcast.md
