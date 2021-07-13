@@ -4,16 +4,20 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout
+  default: post
+  description: Layout template for the post
 - type: text
   name: title
   label: title
 - type: datetime
   name: date
   label: date
+  default: now
 - type: text
   name: author_profile
   label: author_profile
+  default: Kalyan
 - type: text
   name: categories
   label: categories
