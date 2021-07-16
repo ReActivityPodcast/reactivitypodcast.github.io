@@ -7,7 +7,7 @@ categories: blog
 background: "/assets/images/andrew-neel-cckf4tshauw-unsplash.jpg"
 
 ---
-We now have a blog for our podcast. You can go check it out at [reactivityshow.com](http://reactivityshow.com). I have been thinking to set up a blog for some time now and the last week I was able to set it up from scratch.
+We now have a blog for our podcast. I have been thinking to set up a blog for some time now and the last week I was able to set it up from scratch.
 
 In this post, I want to share my thoughts on building a blog and how I set up one for our podcast.
 
@@ -37,6 +37,6 @@ So if you are like me remember to not do over-refinement at the beginning of you
 
 > Blogs have come a long way from blogger blogs two decades ago to medium publications these days, and there have been countless blogs out there today. Even with these many blogs remember that content is the pillar and quality content always stands out from the rest.
 
- Check out our blog at [reactivityshow.com](http://reactivityshow.com) and let me know what you think. Make sure to follow us on Twitter [@ReActivityPod](https://twitter.com/reactivitypod).
+Check out our blog at [reactivityshow.com](http://reactivityshow.com) and let me know what you think. Make sure to follow us on Twitter [@ReActivityPod](https://twitter.com/reactivitypod).
 
 Tweet us at #AskReactivityPodcast
