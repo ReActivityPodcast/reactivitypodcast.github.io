@@ -3,8 +3,8 @@ layout: post
 date: 2021-07-13 20:19:58 +0530
 author_profile: Kalyan
 title: We have a blog for our Podcast
-categories: ''
-background: ''
+categories: blog
+background: "/assets/images/andrew-neel-cckf4tshauw-unsplash.jpg"
 
 ---
 We now have a blog for our podcast. You can go check it out at [reactivityshow.com](http://reactivityshow.com). I have been thinking to set up a blog for some time now and the last week I was able to set it up from scratch.
