@@ -11,6 +11,9 @@ We now have a blog for our podcast. I have been thinking to set up a blog for so
 
 In this post, I want to share my thoughts on building a blog and how I set up one for our podcast.
 
+Listen to this show here:
+<iframe src="https://anchor.fm/reactivity/embed/episodes/4-We-have-a-blog-e14e4g3" width="100%" frameborder="0" scrolling="no"></iframe>
+
 When I decided to set up a blog for our podcast I had to validate the available options today and choose one. So my goal was to set up a quick and easy blog so that I don’t waste so much time on writing one from scratch and at the same time I want a robust platform that I can build upon slowly. So with this target, the first thing that came to my mind is `good old WordPress`. WordPress used to be my favorite platform and the primary suggestion for someone who wants to start blogging. To me, WordPress is an example that resonates with the fact that you don't need a shiny new framework or programming language to build a robust platform that can handle millions of users efficiently.
 
 Of course, nowadays there are others like Square space and Wix, that can help set up a blog or website with lots of functionality very easily without writing the code ourselves. But obviously, luxury comes with a cost.
